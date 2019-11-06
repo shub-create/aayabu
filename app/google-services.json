@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579360321436",
+    "firebase_url": "https://aaya-47b5b.firebaseio.com",
+    "project_id": "aaya-47b5b",
+    "storage_bucket": "aaya-47b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579360321436:android:1f32e4988f4ae99ccb6259",
+        "android_client_info": {
+          "package_name": "com.example.aaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579360321436-qgahajr5rhskh54g6tmk4kgfiftuannd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aaya",
+            "certificate_hash": "67eea071d84e8abaa7c442f0d59243e18ef7952e"
+          }
+        },
+        {
+          "client_id": "579360321436-5mg4nv2iff1h6uktbp3lk08n7ublli0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt_KTys5c-Vx2QyNkTpOcgq5AMh7hlvlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579360321436-5mg4nv2iff1h6uktbp3lk08n7ublli0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
